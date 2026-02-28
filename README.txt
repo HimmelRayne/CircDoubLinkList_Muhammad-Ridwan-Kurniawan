@@ -1,3 +1,4 @@
+Muhammad Ridwan Kurniawan | 24106050043
 Buat program (Java & Python) untuk simulasi teks berjalan berisi berita seperti yang sering tampil di televisi. Program menggunakan struktur data Circular Doubly Linked List. Program dilengkapi dengan fitur tambah dan hapus teks berita. Teks berita akan tampil secara berurutan berdasarkan urutan dalam linked list.
 
 MENU:
@@ -133,3 +134,4 @@ AI yang Saya pakai: Copilot (debugging), Claude (bug fixing)
 
 Link Video (Java): https://youtu.be/ZkYZcU3rkZo
 Link Video (Python): https://youtu.be/B2qFTmOX1wQ
+
